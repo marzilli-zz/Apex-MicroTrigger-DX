@@ -1,0 +1,1455 @@
+[
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518550443914,
+            "changeTime": 1518550443914,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518550443912,
+            "changeTime": 1518550443912,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1518551559139,
+            "changeTime": 1518551559139,
+            "contentHash": "55018103c2d0df958307ebd60e8a8db4214aaded",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1518556143201,
+            "changeTime": 1518556143201,
+            "contentHash": "dbab97d81c4f84bf6b195e1ae601aa5ccc7a14a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17477,
+            "modifiedTime": 1518550702435,
+            "changeTime": 1518550702435,
+            "contentHash": "65295e65a7692765aba9173d99235081b18bcc09",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4759,
+            "modifiedTime": 1518550702438,
+            "changeTime": 1518550702438,
+            "contentHash": "1cfed8d18844d26f6c2f7500d3742b60c1eeaf2b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4421,
+            "modifiedTime": 1518550702440,
+            "changeTime": 1518550702440,
+            "contentHash": "4e6082594cbcd6309f52a2c4d4bfe481ea2ccccd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4421,
+            "modifiedTime": 1518550702442,
+            "changeTime": 1518550702442,
+            "contentHash": "4e6082594cbcd6309f52a2c4d4bfe481ea2ccccd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/Test__mdt",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/Test__mdt",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518551792567,
+            "changeTime": 1518551792567,
+            "contentHash": "eaa3d84cb77d92a21b111fd1e37f53edc1ff9de0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1518551588892,
+            "changeTime": 1518551588892,
+            "contentHash": "047966c90b23ca1fb3cd5bfa6aa0ed2a35e21b33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1518551792567,
+            "changeTime": 1518551792567,
+            "contentHash": "aff86654df923e359b0b63a2e7b439fdfaca6682",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1518550702442,
+            "changeTime": 1518551559139,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 1344,
+            "modifiedTime": 1518612955162,
+            "changeTime": 1518612955162,
+            "contentHash": "6347fd9ec409231fd3502be62d08113120aed895",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata",
+            "isDirectory": true,
+            "size": 576,
+            "modifiedTime": 1518613688852,
+            "changeTime": 1518613688852,
+            "contentHash": "69baa7808f584e3177fca71f4018069684daadad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1518556225322,
+            "changeTime": 1518556225322,
+            "contentHash": "30550470c28c15b0919e58acef10317d839653ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518551359665,
+            "changeTime": 1518551359665,
+            "contentHash": "e6f582002b021a26a5774c34b56aee13c5359ca5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1518551359667,
+            "changeTime": 1518551359667,
+            "contentHash": "0fa2a83442d68a10bdc1f21a29df5fe87195bf0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerTestingMock__c",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerTestingMock__c",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518551359679,
+            "changeTime": 1518551359679,
+            "contentHash": "51abc7bb2d030fdc712ff1d61a258e0660548331",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518551359702,
+            "changeTime": 1518551359702,
+            "contentHash": "527e44f0a2f78642391652619ddc986273164b4d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1518551359707,
+            "changeTime": 1518551359707,
+            "contentHash": "c602bb6c09dc93a82e43ee848df142d78f59107e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/BaseMicroTrigger.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/BaseMicroTrigger.cls",
+            "isDirectory": false,
+            "size": 8585,
+            "modifiedTime": 1518551359546,
+            "changeTime": 1518551359546,
+            "contentHash": "afc2d9b739357c3d94b73ef5cb0be5e191996530",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/BaseMicroTrigger.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/BaseMicroTrigger.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359544,
+            "changeTime": 1518551359544,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggerResult.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggerResult.cls",
+            "isDirectory": false,
+            "size": 2134,
+            "modifiedTime": 1518551359550,
+            "changeTime": 1518551359550,
+            "contentHash": "a703e78a394cc1008b515b58720a5153c96ba973",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggerResult.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggerResult.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359549,
+            "changeTime": 1518551359549,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersDispatcher.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersDispatcher.cls",
+            "isDirectory": false,
+            "size": 4819,
+            "modifiedTime": 1518551359553,
+            "changeTime": 1518551359553,
+            "contentHash": "862c528734bb1d702c9c035c552d5556f8856b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersDispatcher.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersDispatcher.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359552,
+            "changeTime": 1518551359552,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersLoader.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersLoader.cls",
+            "isDirectory": false,
+            "size": 18860,
+            "modifiedTime": 1518551359556,
+            "changeTime": 1518551359556,
+            "contentHash": "d9267f7a1369f2db2bef96dbecb6c33a804cf137",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersLoader.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/MicroTriggersLoader.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359555,
+            "changeTime": 1518551359555,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDelete.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDelete.cls",
+            "isDirectory": false,
+            "size": 7106,
+            "modifiedTime": 1518551359559,
+            "changeTime": 1518551359559,
+            "contentHash": "a03a849735ca263eb85869a27ff0989aa1c00457",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDelete.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDelete.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359558,
+            "changeTime": 1518551359558,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDeleteTest.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDeleteTest.cls",
+            "isDirectory": false,
+            "size": 12333,
+            "modifiedTime": 1518551359562,
+            "changeTime": 1518551359562,
+            "contentHash": "a868b555c77660620fa6e3c57a79fa7221e0abc0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDeleteTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterDeleteTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359561,
+            "changeTime": 1518551359561,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsert.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsert.cls",
+            "isDirectory": false,
+            "size": 7105,
+            "modifiedTime": 1518551359564,
+            "changeTime": 1518551359564,
+            "contentHash": "85dda735eb83b6c79c8f001ab88a6a6d1b0da52b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsert.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsert.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359564,
+            "changeTime": 1518551359564,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsertTest.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsertTest.cls",
+            "isDirectory": false,
+            "size": 12317,
+            "modifiedTime": 1518551359567,
+            "changeTime": 1518551359567,
+            "contentHash": "2ab85601bddff5b153707f3cbef287fdd262a894",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsertTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterInsertTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359567,
+            "changeTime": 1518551359567,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndelete.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndelete.cls",
+            "isDirectory": false,
+            "size": 7039,
+            "modifiedTime": 1518551359570,
+            "changeTime": 1518551359570,
+            "contentHash": "21b8d70f5e7a3655fa89babf5e1aa0bb9dca1267",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndelete.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndelete.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359569,
+            "changeTime": 1518551359569,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndeleteTest.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndeleteTest.cls",
+            "isDirectory": false,
+            "size": 13140,
+            "modifiedTime": 1518551359573,
+            "changeTime": 1518551359573,
+            "contentHash": "8b2dc265b162eeeddf0c1ef796aa368763c102ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndeleteTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUndeleteTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359572,
+            "changeTime": 1518551359572,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdate.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdate.cls",
+            "isDirectory": false,
+            "size": 7296,
+            "modifiedTime": 1518551359577,
+            "changeTime": 1518551359577,
+            "contentHash": "d1ee62bdd52ddbedab95863859a98d762de2df12",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdate.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdate.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359576,
+            "changeTime": 1518551359576,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdateTest.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdateTest.cls",
+            "isDirectory": false,
+            "size": 12501,
+            "modifiedTime": 1518551359581,
+            "changeTime": 1518551359581,
+            "contentHash": "8995c6a1eddbdd2222409731de369c58360de635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdateTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerAfterUpdateTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359580,
+            "changeTime": 1518551359580,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDelete.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDelete.cls",
+            "isDirectory": false,
+            "size": 7217,
+            "modifiedTime": 1518551359584,
+            "changeTime": 1518551359584,
+            "contentHash": "64d72b9f19f39098e9bf93f94ffa150bfdac1872",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDelete.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDelete.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359583,
+            "changeTime": 1518551359583,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDeleteTest.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDeleteTest.cls",
+            "isDirectory": false,
+            "size": 12348,
+            "modifiedTime": 1518551359587,
+            "changeTime": 1518551359587,
+            "contentHash": "b9cf154fe50ba31803008b738c7925b6faa75593",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDeleteTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeDeleteTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359586,
+            "changeTime": 1518551359586,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsert.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsert.cls",
+            "isDirectory": false,
+            "size": 6962,
+            "modifiedTime": 1518551359590,
+            "changeTime": 1518551359590,
+            "contentHash": "c97c26d21c0f9037b6ce3245b61f91ae1f90fff4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsert.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsert.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359590,
+            "changeTime": 1518551359590,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsertTest.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsertTest.cls",
+            "isDirectory": false,
+            "size": 11749,
+            "modifiedTime": 1518551359594,
+            "changeTime": 1518551359594,
+            "contentHash": "7bba4089989051299899cf44b12f356b98ab70f1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsertTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeInsertTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359593,
+            "changeTime": 1518551359593,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdate.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdate.cls",
+            "isDirectory": false,
+            "size": 7307,
+            "modifiedTime": 1518551359598,
+            "changeTime": 1518551359598,
+            "contentHash": "3b7ba09dd36daa8ac3ddfdd00595a9beba11fb3a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdate.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdate.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359597,
+            "changeTime": 1518551359597,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdateTest.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdateTest.cls",
+            "isDirectory": false,
+            "size": 12413,
+            "modifiedTime": 1518551359601,
+            "changeTime": 1518551359601,
+            "contentHash": "2c64c4657baef79d6577f45e000129d878917aed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdateTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/TriggerBeforeUpdateTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1518551359600,
+            "changeTime": 1518551359600,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterDeleteTestMicroTrigger.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterDeleteTestMicroTrigger.md-meta.xml",
+            "isDirectory": false,
+            "size": 1221,
+            "modifiedTime": 1518551359606,
+            "changeTime": 1518551359606,
+            "contentHash": "2405825cf52d2a26709fb79188931f9017fffd8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterInsertTestMicroTrigger.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterInsertTestMicroTrigger.md-meta.xml",
+            "isDirectory": false,
+            "size": 1220,
+            "modifiedTime": 1518551359609,
+            "changeTime": 1518551359609,
+            "contentHash": "b568973ef652e36e5525c206099b39f582fd8ed5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterUndeleteTestMicroTrigger.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterUndeleteTestMicroTrigger.md-meta.xml",
+            "isDirectory": false,
+            "size": 1229,
+            "modifiedTime": 1518551359612,
+            "changeTime": 1518551359612,
+            "contentHash": "4a8724e17bad291ab1a4c98b5d269aebdcfc5867",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterUpdateTestMicroTrigger.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerAfterUpdateTestMicroTrigger.md-meta.xml",
+            "isDirectory": false,
+            "size": 1221,
+            "modifiedTime": 1518551359614,
+            "changeTime": 1518551359614,
+            "contentHash": "fcad0a5c024b29083db4600e8663d1ce3c99b8c8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerBeforeDeleteTestMicroTrigger.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerBeforeDeleteTestMicroTrigger.md-meta.xml",
+            "isDirectory": false,
+            "size": 1225,
+            "modifiedTime": 1518551359617,
+            "changeTime": 1518551359617,
+            "contentHash": "93d9dc7412d771fde7732671619fd9c3e5399c10",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerBeforeInsertTestMicroTrigger.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerBeforeInsertTestMicroTrigger.md-meta.xml",
+            "isDirectory": false,
+            "size": 1224,
+            "modifiedTime": 1518551359621,
+            "changeTime": 1518551359621,
+            "contentHash": "9d712d9bb92fc608df24081caaaa0dbf5d5e8a0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerBeforeUpdateTestMicroTrigger.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.TriggerBeforeUpdateTestMicroTrigger.md-meta.xml",
+            "isDirectory": false,
+            "size": 1225,
+            "modifiedTime": 1518551359623,
+            "changeTime": 1518551359623,
+            "contentHash": "c70dbbbd39b45d150b788e7c55a2a0f14affb140",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterDelete_MockAction.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterDelete_MockAction.md-meta.xml",
+            "isDirectory": false,
+            "size": 977,
+            "modifiedTime": 1518551359627,
+            "changeTime": 1518551359627,
+            "contentHash": "90bb0378b7417348d826cd06d6c4ffaed9e1dd7d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterInsert_MockAction.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterInsert_MockAction.md-meta.xml",
+            "isDirectory": false,
+            "size": 979,
+            "modifiedTime": 1518551359631,
+            "changeTime": 1518551359631,
+            "contentHash": "31e2daf6edb99d48b65dc7b7ca3d706d57330398",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterUndelete_MockAction.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterUndelete_MockAction.md-meta.xml",
+            "isDirectory": false,
+            "size": 987,
+            "modifiedTime": 1518551359633,
+            "changeTime": 1518551359633,
+            "contentHash": "3e621028286a03c830dac717af088daeab23bb7e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterUpdate_MockAction.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerAfterUpdate_MockAction.md-meta.xml",
+            "isDirectory": false,
+            "size": 980,
+            "modifiedTime": 1518551359636,
+            "changeTime": 1518551359636,
+            "contentHash": "0e5d918a8ee61061dcc00ebf7672f86e5dd2422e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerBeforeDelete_MockAction.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerBeforeDelete_MockAction.md-meta.xml",
+            "isDirectory": false,
+            "size": 984,
+            "modifiedTime": 1518551359641,
+            "changeTime": 1518551359641,
+            "contentHash": "473c3a86c1d9a3aeddb1460fdb8dd7143af611d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerBeforeInsert_MockAction.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerBeforeInsert_MockAction.md-meta.xml",
+            "isDirectory": false,
+            "size": 983,
+            "modifiedTime": 1518551359643,
+            "changeTime": 1518551359643,
+            "contentHash": "9d08fbd522880de5ac84d253a593c85231c372b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerBeforeUpdate_MockAction.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.TriggerBeforeUpdate_MockAction.md-meta.xml",
+            "isDirectory": false,
+            "size": 983,
+            "modifiedTime": 1518551359645,
+            "changeTime": 1518551359645,
+            "contentHash": "422cf3b282f4cfee1e55d5f3e02a36b387139b9f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/MicroTriggerTestingMockTrigger.trigger",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/MicroTriggerTestingMockTrigger.trigger",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1518551359718,
+            "changeTime": 1518551359718,
+            "contentHash": "3a061250862accd1e71a876c8e90acb7506c1ab3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/MicroTriggerTestingMockTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/MicroTriggerTestingMockTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1518551359717,
+            "changeTime": 1518551359717,
+            "contentHash": "5d1fc2cb4a26a8055c3cf2d104a687e73cb5ff6d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/MicroTriggerAction__mdt.object-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/MicroTriggerAction__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1518551359664,
+            "changeTime": 1518551359664,
+            "contentHash": "f623cc7058d6f70b757f5747d01aa7232f753cd7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/Active__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1518551359665,
+            "changeTime": 1518551359665,
+            "contentHash": "f99b8ca269c13453ba9650d73b508437ee358323",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/ApexClass__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/ApexClass__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1518551359666,
+            "changeTime": 1518551359666,
+            "contentHash": "6e2fcdb95352cd14195b8833c70d55591de484ac",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1518551359666,
+            "changeTime": 1518551359666,
+            "contentHash": "950fc15727d906cdb2be185b89322e2e7f84047a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/MicroTrigger__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/MicroTrigger__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 559,
+            "modifiedTime": 1518551359666,
+            "changeTime": 1518551359666,
+            "contentHash": "2a477840448a4ac3e84649adaab0cedad460e38a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/OrderOfExecution__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerAction__mdt/fields/OrderOfExecution__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1518551359667,
+            "changeTime": 1518551359667,
+            "contentHash": "9f2d6293baed185944fc9bb0b42e060818a3e716",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerTestingMock__c/MicroTriggerTestingMock__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTriggerTestingMock__c/MicroTriggerTestingMock__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2187,
+            "modifiedTime": 1518551359679,
+            "changeTime": 1518551359679,
+            "contentHash": "7ba6aae60b147bd6418762aa622677476957d08c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/MicroTrigger__mdt.object-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/MicroTrigger__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1518551359702,
+            "changeTime": 1518551359702,
+            "contentHash": "416380ab5b25d0ab9cf1a57d9dd2dc47f93dfaf3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Active__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1518551359703,
+            "changeTime": 1518551359703,
+            "contentHash": "f99b8ca269c13453ba9650d73b508437ee358323",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Criteria__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Criteria__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1518551359703,
+            "changeTime": 1518551359703,
+            "contentHash": "d1a4e48633c58e3eb618785c9533251fe99b18d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 344,
+            "modifiedTime": 1518551359704,
+            "changeTime": 1518551359704,
+            "contentHash": "79580b2bb27d281189b2716391bf94a773829465",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Event__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/Event__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1736,
+            "modifiedTime": 1518551359705,
+            "changeTime": 1518551359705,
+            "contentHash": "e1f2e9d0f21d6dfff844bf7ac2e0370d0095a807",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/OrderOfExecution__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/OrderOfExecution__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1518551359706,
+            "changeTime": 1518551359706,
+            "contentHash": "bd6d11b2ae09e6afa147581156393963543eea8f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/PreventRecursive__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/PreventRecursive__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 465,
+            "modifiedTime": 1518551359706,
+            "changeTime": 1518551359706,
+            "contentHash": "8561cf6fc58667522ab908563a227d5cb8b302c8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/SObject__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/objects/MicroTrigger__mdt/fields/SObject__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1354,
+            "modifiedTime": 1518551359707,
+            "changeTime": 1518551359707,
+            "contentHash": "934683916f0527b3a089a1d5052673315a3d9a89",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts/MicroTriggerAction__mdt-MicroTrigger Action Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts/MicroTriggerAction__mdt-MicroTrigger Action Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3190,
+            "modifiedTime": 1518557183458,
+            "changeTime": 1518557183458,
+            "contentHash": "0fed97e703b349b01b98bf3bb6f2651c49ecbc9a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts/MicroTriggerTestingMock__c-MicroTrigger Mock Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts/MicroTriggerTestingMock__c-MicroTrigger Mock Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1947,
+            "modifiedTime": 1518551359652,
+            "changeTime": 1518551359652,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts/MicroTrigger__mdt-MicroTrigger Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/layouts/MicroTrigger__mdt-MicroTrigger Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3461,
+            "modifiedTime": 1518557183453,
+            "changeTime": 1518557183453,
+            "contentHash": "d070dde1f1c6fe3f8033fbd58d353c7bbc5cd8a9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/AccountOwnerIdChangedCritera.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/AccountOwnerIdChangedCritera.cls",
+            "isDirectory": false,
+            "size": 1121,
+            "modifiedTime": 1518556290108,
+            "changeTime": 1518556290108,
+            "contentHash": "0d3eecd9ca132cb89abfbc1ba43d94c1c2f03277",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/AccountOwnerIdChangedCritera.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/AccountOwnerIdChangedCritera.cls-meta.xml",
+            "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1518556279197,
+            "changeTime": 1518556279197,
+            "contentHash": "bec6670b14034a1bf10ff56ffe17127c0e0e2726",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/AccountMicroTrigger.trigger",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/AccountMicroTrigger.trigger",
+            "isDirectory": false,
+            "size": 883,
+            "modifiedTime": 1518613662328,
+            "changeTime": 1518613662328,
+            "contentHash": "4a75b8d00826bdaeeda1e2f75439f0fc00aca9ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/AccountMicroTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/triggers/AccountMicroTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1518556225322,
+            "changeTime": 1518556225322,
+            "contentHash": "0530a1037070e3555ccb28196f1dcfeb159282e5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/ChangeOwnerIdAction.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/ChangeOwnerIdAction.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 554,
+            "modifiedTime": 1518614651693,
+            "changeTime": 1518614651693,
+            "contentHash": "fcac64fd4924f68e3e32213fbfeb286fc3a391e6"
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/ChangeOwnerIdAction.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/classes/ChangeOwnerIdAction.cls-meta.xml",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1518612955162,
+            "changeTime": 1518612955162,
+            "contentHash": "9262cb5e3f6415f3c4a4e608f4881d870d04b414",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.Account_Trigger_Before_Update.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTrigger.Account_Trigger_Before_Update.md-meta.xml",
+            "isDirectory": false,
+            "size": 1120,
+            "modifiedTime": 1518613688851,
+            "changeTime": 1518613688851,
+            "contentHash": "15dcefac1cc56a440bf54e14b5b5ddb23712f35a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.Account_Trigger_Before_Update.md-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/sfdev/trigMicroServ2/force-app/main/default/customMetadata/MicroTriggerAction.Account_Trigger_Before_Update.md-meta.xml",
+            "isDirectory": false,
+            "size": 899,
+            "modifiedTime": 1518613688852,
+            "changeTime": 1518613688852,
+            "contentHash": "5d70f4fd184f52533d75c671d276c26f64f4c120",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

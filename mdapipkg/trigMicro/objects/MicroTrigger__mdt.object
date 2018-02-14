@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Active__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Active</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Criteria__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Criteria</label>
+        <length>255</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Description__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Description</label>
+        <required>false</required>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Event__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Event</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Before Insert</fullName>
+                    <default>true</default>
+                    <label>Before Insert</label>
+                </value>
+                <value>
+                    <fullName>After Insert</fullName>
+                    <default>false</default>
+                    <label>After Insert</label>
+                </value>
+                <value>
+                    <fullName>Before Update</fullName>
+                    <default>false</default>
+                    <label>Before Update</label>
+                </value>
+                <value>
+                    <fullName>After Update</fullName>
+                    <default>false</default>
+                    <label>After Update</label>
+                </value>
+                <value>
+                    <fullName>Before Delete</fullName>
+                    <default>false</default>
+                    <label>Before Delete</label>
+                </value>
+                <value>
+                    <fullName>After Delete</fullName>
+                    <default>false</default>
+                    <label>After Delete</label>
+                </value>
+                <value>
+                    <fullName>After Undelete</fullName>
+                    <default>false</default>
+                    <label>After Undelete</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>OrderOfExecution__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Order Of Execution</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>PreventRecursive__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>When this field is checked, the MicroTrigger Actions will run only one</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Prevent Recursive</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>SObject__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>SObject</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Account</fullName>
+                    <default>true</default>
+                    <label>Account</label>
+                </value>
+                <value>
+                    <fullName>Contact</fullName>
+                    <default>false</default>
+                    <label>Contact</label>
+                </value>
+                <value>
+                    <fullName>Lead</fullName>
+                    <default>false</default>
+                    <label>Lead</label>
+                </value>
+                <value>
+                    <fullName>Case</fullName>
+                    <default>false</default>
+                    <label>Case</label>
+                </value>
+                <value>
+                    <fullName>MicroTriggerTestingMock__c</fullName>
+                    <default>false</default>
+                    <label>MicroTriggerTestingMock__c</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <label>MicroTrigger</label>
+    <pluralLabel>MicroTriggers</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
