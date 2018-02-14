@@ -1,14 +1,6 @@
 # SFDX  App
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
+Implementation of Microservices Trigger found here: https://github.com/kofijohnson/apex-microtrigger
+In DX format
 
 
